@@ -18,4 +18,6 @@ Each player (The user and the dealer) is represented by the Player class which s
 Requires JavaFX
 
 Run BlackjackTableGUI.java to play
+
+If unable to run, various gameplay outcomes and scenarios are demonstrated in *BlackjackGameExamples.pdf*
 ----------------------------------
