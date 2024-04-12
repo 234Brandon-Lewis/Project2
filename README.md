@@ -1,2 +1,2 @@
 # Blackjack Project
-## Further details are in the Project2_BrandonLewis folder 
+### Further details can be found in the Project2_BrandonLewis folder 
